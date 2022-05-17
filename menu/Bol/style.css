@@ -1,0 +1,28 @@
+
+header {
+ 
+    background-color: rgb(223, 24, 24); padding: 30px;height: 135px;text-align: center;font-size: 35px; color: white;
+    
+}
+   
+nav {
+
+    float: left;
+
+    width: 15%;
+
+    height: 600px;
+
+    background: rgb(143, 143, 143);
+
+  }
+   
+   
+    article { float: right; width: 85%; background-color: #1260a8; height: 600px; } 
+   
+   section::after { content: "";display: table; clear: both }
+   
+   
+   footer {background-color: rgb(163, 75, 223); padding: 10px;height: 130px;text-align: center;color: white; }
+   
+   
